@@ -22,7 +22,7 @@ def run_topological_sort():
         ts.topology()
 
 def run_mst():
-    with open("E:\DataStructure2\ds2lab4\inputForPrim.txt", "r") as f:   
+    with open("E:\\DataStructure2\\ds2lab4\\inputForPrim.txt", "r") as f:
         input_data = f.read().split()
 
     idx = 0
